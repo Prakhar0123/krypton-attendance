@@ -12,7 +12,7 @@
         $fetchingEmp=mysqli_query($db, "SELECT * FROM att") OR die(myssqli_error($db));
         while($data=mysqli_fetch_assoc($fetchingEmp)){
             $emp_name=$data['emp_name'];
-            $empid=$data['id'];
+            $empid=$data['count'];
             ?>
             <tr>
                 <td><?php echo $emp_name; ?></td>
