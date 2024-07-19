@@ -260,3 +260,9 @@ input[type="submit"]:hover{
     top: 65%;
     left: 20%;
 }
+.t6{
+    position: absolute;
+    color: white;
+    top: 2%;
+    left: 38%;
+}
