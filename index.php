@@ -25,7 +25,7 @@
             <?php require_once("sheet.php"); ?>
         </div>
         <div class="col-4">
-            <?php require_once("addemp.php");
+            <?php require_once("action.php");
             echo "<hr>"; 
             require_once("addattendance.php");
             ?>
