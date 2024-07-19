@@ -20,10 +20,12 @@
     <h3>4. To view your attendance,enter the username: my_attendance</h3>
     </div><div class="t5">
     <h3>5. Use 16Tn+1_123 as your password to login to the attendance page</h3>
+    </div><div class="t6">
+    <h1>KRYPTON REPORT</h1>
     </div>
     <div class="mid">
         <h1>Fill in your details here</h1>
-    <form action="sheet.php" method="post">
+    <form action="rep.php" method="post">
         <div class="text_field">
             <input type="text" name="username" required>
             <span></span>
