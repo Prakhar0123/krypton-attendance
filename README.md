@@ -10,9 +10,7 @@ The user.php file contains the user/employee login form where the employee will 
 
 ![Screenshot 2024-10-13 221808](https://github.com/user-attachments/assets/43035f31-ea47-4c48-9694-608db0002cc9)
 
-
-
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 *User Login Page*
 
 ![Screenshot 2024-10-13 221516](https://github.com/user-attachments/assets/61354639-1a22-4b02-b764-208040938c34)
