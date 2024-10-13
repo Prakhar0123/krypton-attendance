@@ -3,4 +3,5 @@ The index.php file includes the admin login form that will redirect to the atten
 The user.php file contains the user/employee login form where the employee will be simply redirected to attendance report page.
 
 Login Page:
+
 ![image](https://github.com/user-attachments/assets/03fbe5ad-915d-4af2-84b1-ed81e9a9a602)
