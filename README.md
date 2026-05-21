@@ -9,3 +9,9 @@ ________________________________________________________________________________
 *Attendance Report for Employees*
 
 ![Screenshot 2024-10-13 221832](https://github.com/user-attachments/assets/bce52c4e-c110-43b8-8eb2-dc1e91aafe72)
+
+Kindly connect with me for any suggestions/issues:
+
+Gmail- checkoutprakhar@gmail.com
+
+Linkedin- https://www.linkedin.com/in/prakhar-kushwaha-ba0a34276/
